@@ -1,2 +1,2 @@
-# Learning Git in VSCode
-# edited in the browser on git
+### Learning Git in VSCode
+### edited in the browser on git
